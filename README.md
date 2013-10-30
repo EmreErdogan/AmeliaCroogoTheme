@@ -1,4 +1,4 @@
-AmeliaCroogoTheme
+Amelia Theme for Croogo
 =================
 
 Amelia Theme for Croogo, based on [Bootstrap 2.3.2][1], derived from http://bootswatch.com/2/amelia/
