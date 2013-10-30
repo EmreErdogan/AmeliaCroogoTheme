@@ -1,7 +1,7 @@
 AmeliaCroogoTheme
 =================
 
-Amelia Theme for Croogo, based on [Bootstrap 2.3.2][7], derived from http://bootswatch.com/2/amelia/
+Amelia Theme for Croogo, based on [Bootstrap 2.3.2][1], derived from http://bootswatch.com/2/amelia/
 
 Installation
 -----------------
@@ -28,8 +28,8 @@ Special thanks to
 
   [1]: http://http://getbootstrap.com/2.3.2/ "Bootstrap 2.3.2"
   [2]: https://github.com/EmreErdogan/AmeliaCroogoTheme/archive/master.zip "Download Amelia Croogo Theme"
-  [3]: http://wiki.croogo.org/extensions/themes
+  [3]: http://wiki.croogo.org/extensions/themes "Croogo Themes"
   [4]: https://github.com/sherwinrobles/Cerulean-Theme "Cerulean Theme for Croogo by Sherwin Robles"
-  [5]: http://bootswatch.com/2/
+  [5]: http://croogo.org/ "Croogo CMS"
   [6]: http://getbootstrap.com/ "Bootstrap"
-  [7]: http://bootswatch.com/2/
+  [7]: http://bootswatch.com/2/ "Bootswatch"
