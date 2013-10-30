@@ -23,7 +23,8 @@ Special thanks to
 -----------------
  - [Croogo][5] - Open Source **CMS** built for everyone!
  - [Bootstrap][6] - For the awesome front-end framework
- - [Bootswatch][7] - For Saving the web from default Bootstrap
+ - [Bootswatch][7] - For saving the web from default Bootstrap
+ - [CakePHP][8] - And the fabulous web application framework
 
 
   [1]: http://http://getbootstrap.com/2.3.2/ "Bootstrap 2.3.2"
@@ -33,3 +34,4 @@ Special thanks to
   [5]: http://croogo.org/ "Croogo CMS"
   [6]: http://getbootstrap.com/ "Bootstrap"
   [7]: http://bootswatch.com/2/ "Bootswatch"
+  [8]: http://cakephp.org/ "CakePHP Framework"
