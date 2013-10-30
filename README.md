@@ -17,7 +17,7 @@ Additional notes
 ----------------
  - The theme seems to work fine on Croogo 1.5.4 
  - There are some other [themes for Croogo][3] out there. Some of the links may be broken though.
- - The idea of Amelia Croogo Theme is taken from [Cerulean][4] by Sherwin Robles
+ - The idea of Amelia Croogo Theme and some code is taken from [Cerulean][4] by Sherwin Robles
 
 Special thanks to
 -----------------
