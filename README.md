@@ -3,6 +3,10 @@ Amelia Theme for Croogo
 
 Amelia Theme for Croogo, based on [Bootstrap 2.3.2][1], derived from http://bootswatch.com/2/amelia/
 
+Screenshot
+-----------------
+<img src="https://raw.github.com/EmreErdogan/AmeliaCroogoTheme/master/webroot/img/screenshot.png" style="max-width:100%" />
+
 Installation
 -----------------
 
@@ -25,7 +29,6 @@ Special thanks to
  - [Bootstrap][6] - For the awesome front-end framework
  - [Bootswatch][7] - For saving the web from default Bootstrap
  - [CakePHP][8] - And the fabulous web application framework
-
 
   [1]: http://http://getbootstrap.com/2.3.2/ "Bootstrap 2.3.2"
   [2]: https://github.com/EmreErdogan/AmeliaCroogoTheme/archive/master.zip "Download Amelia Croogo Theme"
